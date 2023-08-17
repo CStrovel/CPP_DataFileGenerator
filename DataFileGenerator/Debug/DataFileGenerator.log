@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Stetson\source\repos\cpp\DataFileGenerator\DataFileGenerator\Source.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Debug\IntSet.obj : warning LNK4042: object specified more than once; extras ignored
+  DataFileGenerator.vcxproj -> C:\Users\Stetson\source\repos\cpp\DataFileGenerator\Debug\DataFileGenerator.exe
